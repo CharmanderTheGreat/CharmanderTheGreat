@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Albert+Lawrence+%F0%9F%91%8B;a.k.a.+CharmanderTheGreat;IT+Student+%7C+Networking+%26+Cybersecurity;Building+things.+Breaking+things+(ethically)." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Albert+Lawrence+%F0%9F%91%8B;a.k.a.+CharmanderTheGreat;IT+Student+%7C+Aspiring+Tech+Professional;Always+learning.+Always+building." alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-  <img src="./assets/ascii-portrait.png" width="55%" alt="ASCII Portrait"/>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=180&section=header&text=&fontColor=ffffff" width="100%"/>
 </div>
 
-<h3 align="center">🔐 Securing networks, one packet at a time.</h3>
+<h3 align="center">💡 Learning, building, and figuring things out one project at a time.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CharmanderTheGreat&label=Profile%20Views&color=00f7ff&style=flat" alt="profile views" />
@@ -23,15 +19,16 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-name: Albert Lawrence B. Robiñol
-alias: CharmanderTheGreat
-role: IT Student
-focus: [Networking, Cybersecurity, Full-Stack Development]
-os: [Kali Linux (persistent USB), Windows]
-currently_learning: [Penetration Testing, MITRE ATT&CK, OWASP WSTG, PTES]
-fun_fact: "Runs a full pentest lab off a USB stick."
-```
+<table>
+<tr>
+<td width="60%">
+<img src="./assets/about-me-card.png" width="100%" alt="About Me"/>
+</td>
+<td width="40%" align="center">
+<img src="./assets/ascii-portrait.png" width="100%" alt="ASCII Portrait"/>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -47,7 +44,7 @@ fun_fact: "Runs a full pentest lab off a USB stick."
 
 <div align="center">
 
-### 🛠️ Security & Networking Toolkit
+### 🛠️ Tools & Platforms
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -132,4 +129,4 @@ fun_fact: "Runs a full pentest lab off a USB stick."
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:000000&height=100&section=footer" width="100%"/>
 </div>
 
-<p align="center"><i>"Not all who wander through networks are lost — some are just mapping the attack surface."</i></p>
+<p align="center"><i>"Still figuring it out — one project, one bug, one lesson at a time."</i></p>
