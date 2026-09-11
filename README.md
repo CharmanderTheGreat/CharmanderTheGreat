@@ -78,11 +78,11 @@
 **FROSTBYTE 2026: Youth Week Hackathon**
 *"Break the Ice, Build the Future" — City of Santa Rosa, Laguna*
 
-<img src="./assets/frostbyte-team.jpg" width="80%" alt="FrostByte 2026 Hackathon - 1st Runner Up"/>
+<img src="./assets/frostbyte-team.jpeg" width="80%" alt="FrostByte 2026 Hackathon - 1st Runner Up"/>
 
 <br><br>
 
-<img src="./assets/frostbyte-certificate.jpg" width="60%" alt="FrostByte 2026 Certificate"/>
+<img src="./assets/frostbyte-certificate.jpeg" width="60%" alt="FrostByte 2026 Certificate"/>
 
 </div>
 
