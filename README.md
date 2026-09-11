@@ -80,13 +80,13 @@
 
 <br>
 
-<table>
+<table width="70%" align="center">
 <tr>
 <td width="50%">
-<img src="./assets/frostbyte-team.jpg" width="100%" alt="FrostByte 2026 Hackathon - 1st Runner Up"/>
+<img src="./assets/frostbyte-team.jpeg" width="100%" alt="FrostByte 2026 Hackathon - 1st Runner Up"/>
 </td>
 <td width="50%">
-<img src="./assets/frostbyte-certificate.jpg" width="100%" alt="FrostByte 2026 Certificate"/>
+<img src="./assets/frostbyte-certificate.jpeg" width="100%" alt="FrostByte 2026 Certificate"/>
 </td>
 </tr>
 </table>
