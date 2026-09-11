@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="./assets/ascii-portrait.png" width="55%" alt="ASCII Portrait"/>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=180&section=header&text=&fontColor=ffffff" width="100%"/>
 </div>
 
