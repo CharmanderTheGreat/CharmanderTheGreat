@@ -134,7 +134,7 @@
 <a href="https://github.com/CharmanderTheGreat">
 <img src="./assets/lyrics-arduino-icon.png" width="90" height="90"/>
 </a>
-<br><sub><b>Lyrics in Arduino</b></sub><br><sub><i>(coming soon)</i></sub>
+<br><sub><b>Lyrics in Arduino</b></sub><br><stb>(comint soon)></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
@@ -193,4 +193,4 @@
   <img src="./assets/sunset.gif" width="100%"/>
 </div>
 
-<h3 align="center"><i><b>"Still figuring it out — one project, one bug, one lesson at a time."</b></i></h3>
+<h3 align="center"><b>"Still figuring it out — one project, one bug, one lesson at a time."</bt></h3>
