@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=180&section=header&text=&fontColor=ffffff" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdwdDRrbzA3c2I0bG92ZHdjcWsya3J2aWFtdXU0Y25uZHhvdjBhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sIIhZliB2McAo/giphy.gif" width="300"/>
 </div>
 
 <h3 align="center">💡 Learning, building, and figuring things out one project at a time.</h3>
@@ -80,12 +80,12 @@
 
 <br>
 
-<table width="70%" align="center">
+<table width="85%" align="center">
 <tr>
-<td width="50%">
+<td>
 <img src="./assets/frostbyte-team.jpeg" width="100%" alt="FrostByte 2026 Hackathon - 1st Runner Up"/>
 </td>
-<td width="50%">
+<td>
 <img src="./assets/frostbyte-certificate.jpeg" width="100%" alt="FrostByte 2026 Certificate"/>
 </td>
 </tr>
@@ -97,14 +97,47 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/CharmanderTheGreat/Personal-portfolio-site--HTML-CSS-JS-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharmanderTheGreat&repo=Personal-portfolio-site--HTML-CSS-JS-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/CharmanderTheGreat/Responsive-navbar-component">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CharmanderTheGreat&repo=Responsive-navbar-component&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
-  </a>
-</div>
+<table align="center">
+<tr>
+<td align="center" width="16.6%">
+<a href="https://github.com/CharmanderTheGreat/Personal-portfolio-site--HTML-CSS-JS-">
+<img src="./assets/portfolio-icon.png" width="90"/>
+</a>
+<br><sub><b>365 Days of Coding</b></sub>
+</td>
+<td align="center" width="16.6%">
+<a href="https://github.com/CharmanderTheGreat">
+<img src="./assets/lyrics-arduino-icon.png" width="90"/>
+</a>
+<br><sub><b>Lyrics in Arduino</b></sub><br><sub><i>(coming soon)</i></sub>
+</td>
+<td align="center" width="16.6%">
+<a href="https://github.com/lukeedward-schofield/RosaCycle">
+<img src="./assets/rosacycle-icon.png" width="90"/>
+</a>
+<br><sub><b>RosaCycle</b></sub>
+</td>
+<td align="center" width="16.6%">
+<a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
+<img src="./assets/grandvault-icon.png" width="90"/>
+</a>
+<br><sub><b>GrandVault</b></sub>
+</td>
+<td align="center" width="16.6%">
+<a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
+<img src="./assets/cctv-icon.png" width="90"/>
+</a>
+<br><sub><b>CCTV Monitoring</b></sub>
+</td>
+<td align="center" width="16.6%">
+<a href="https://github.com/lukeedward-schofield/OOPSystem">
+<img src="./assets/oopsystem-icon.png" width="90"/>
+</a>
+<br><sub><b>OOP System</b></sub>
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -124,9 +157,9 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 👾 Pac-Man Contribution Graph
 
-![snake gif](https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/output/github-contribution-grid-snake-dark.svg)
+![pacman contribution graph](https://raw.githubusercontent.com/CharmanderTheGreat/github-pacman/output/pacman-contribution-graph.svg)
 
 </div>
 
