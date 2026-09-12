@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdwdDRrbzA3c2I0bG92ZHdjcWsya3J2aWFtdXU0Y25uZHhvdjBhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sIIhZliB2McAo/giphy.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/sf2WqsQak4YAAAAd/nyan-cat.gif" width="100%"/>
 </div>
 
 <h3 align="center">💡 Learning, building, and figuring things out one project at a time.</h3>
@@ -83,10 +83,10 @@
 <table width="85%" align="center">
 <tr>
 <td>
-<img src="./assets/frostbyte-team.jpeg" width="100%" alt="FrostByte 2026 Hackathon - 1st Runner Up"/>
+<img src="./assets/frostbyte-team.jpg" width="100%" alt="FrostByte 2026 Hackathon - 1st Runner Up"/>
 </td>
 <td>
-<img src="./assets/frostbyte-certificate.jpeg" width="100%" alt="FrostByte 2026 Certificate"/>
+<img src="./assets/frostbyte-certificate.jpg" width="100%" alt="FrostByte 2026 Certificate"/>
 </td>
 </tr>
 </table>
