@@ -190,7 +190,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:000000&height=100&section=footer" width="100%"/>
+  <img src="./assets/sunset.gif" width="100%"/>
 </div>
 
 <p align="center"><i>"Still figuring it out — one project, one bug, one lesson at a time."</i></p>
