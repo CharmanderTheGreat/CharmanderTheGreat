@@ -67,11 +67,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
+  <img src="https://ghstats.dev/api/sparkline?username=CharmanderTheGreat&days=60&width=700&theme=tokyonight" width="70%"/>
 </div>
 
 <div align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=CharmanderTheGreat&days=60&width=700&theme=tokyonight" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
 </div>
 
 ---
