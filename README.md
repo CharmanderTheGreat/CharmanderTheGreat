@@ -19,12 +19,12 @@
 
 ### 🧑‍💻 About Me
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="60%">
+<td width="60%" valign="top" align="center">
 <img src="./assets/about-me-card.png" width="100%" alt="About Me"/>
 </td>
-<td width="40%" align="center">
+<td width="40%" valign="top" align="center">
 <img src="./assets/ascii-portrait.png" width="100%" alt="ASCII Portrait"/>
 </td>
 </tr>
@@ -59,13 +59,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=CharmanderTheGreat&theme=tokyonight" width="49%" />
-  <img src="https://ghstats.dev/api/langs?username=CharmanderTheGreat&theme=tokyonight&layout=bar" width="35%" />
+  <img src="https://ghstats.dev/api/card?username=CharmanderTheGreat&theme=tokyonight" width="70%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="49%"/>
-  <img src="https://ghstats.dev/api/sparkline?username=CharmanderTheGreat&days=60&width=420&theme=tokyonight" width="49%"/>
+  <img src="https://ghstats.dev/api/langs?username=CharmanderTheGreat&theme=tokyonight&layout=bar" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=CharmanderTheGreat&days=60&width=700&theme=tokyonight" width="70%"/>
 </div>
 
 ---
@@ -80,12 +86,12 @@
 
 <br>
 
-<table width="85%" align="center">
+<table align="center" width="85%">
 <tr>
-<td>
+<td width="50%" valign="top" align="center">
 <img src="./assets/frostbyte-team.jpeg" width="100%" alt="FrostByte 2026 Hackathon - 1st Runner Up"/>
 </td>
-<td>
+<td width="50%" valign="top" align="center">
 <img src="./assets/frostbyte-certificate.jpeg" width="100%" alt="FrostByte 2026 Certificate"/>
 </td>
 </tr>
@@ -97,47 +103,46 @@
 
 ### 🚀 Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat/Personal-portfolio-site--HTML-CSS-JS-">
-<img src="./assets/portfolio-icon.png" width="90"/>
+<img src="./assets/portfolio-icon.png" width="90" height="90"/>
 </a>
 <br><sub><b>365 Days of Coding</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat">
-<img src="./assets/lyrics-arduino-icon.png" width="90"/>
+<img src="./assets/lyrics-arduino-icon.png" width="90" height="90"/>
 </a>
 <br><sub><b>Lyrics in Arduino</b></sub><br><sub><i>(coming soon)</i></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
-<img src="./assets/rosacycle-icon.png" width="90"/>
+<img src="./assets/rosacycle-icon.png" width="90" height="90"/>
 </a>
 <br><sub><b>RosaCycle</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
-<img src="./assets/grandvault-icon.png" width="90"/>
+<img src="./assets/grandvault-icon.png" width="90" height="90"/>
 </a>
 <br><sub><b>GrandVault</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
-<img src="./assets/cctv-icon.png" width="90"/>
+<img src="./assets/cctv-icon.png" width="90" height="90"/>
 </a>
 <br><sub><b>CCTV Monitoring</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/lukeedward-schofield/OOPSystem">
-<img src="./assets/oopsystem-icon.png" width="90"/>
+<img src="./assets/oopsystem-icon.png" width="90" height="90"/>
 </a>
 <br><sub><b>OOP System</b></sub>
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -169,4 +174,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:000000&height=100&section=footer" width="100%"/>
 </div>
 
-<p align="center"><i>"Still figuring it out — one project, one bug, one lesson at a time."</i></p>  
+<p align="center"><i>"Still figuring it out — one project, one bug, one lesson at a time."</i></p>
