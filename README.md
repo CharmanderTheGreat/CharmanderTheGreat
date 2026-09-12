@@ -59,13 +59,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharmanderTheGreat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharmanderTheGreat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" width="35%" />
+  <img src="https://ghstats.dev/api/card?username=CharmanderTheGreat&theme=tokyonight" width="49%" />
+  <img src="https://ghstats.dev/api/langs?username=CharmanderTheGreat&theme=tokyonight&layout=bar" width="35%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharmanderTheGreat&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" width="49%"/>
+  <img src="https://ghstats.dev/api/sparkline?username=CharmanderTheGreat&days=60&width=420&theme=tokyonight" width="49%"/>
 </div>
 
 ---
@@ -169,4 +169,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:0F2027,100:000000&height=100&section=footer" width="100%"/>
 </div>
 
-<p align="center"><i>"Still figuring it out — one project, one bug, one lesson at a time."</i></p>
+<p align="center"><i>"Still figuring it out — one project, one bug, one lesson at a time."</i></p>  
