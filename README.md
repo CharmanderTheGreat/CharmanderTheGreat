@@ -193,4 +193,4 @@
   <img src="./assets/sunset.gif" width="100%"/>
 </div>
 
-<p align="center"><i>"Still figuring it out — one project, one bug, one lesson at a time."</i></p>
+<h3 align="center"><i><b>"Still figuring it out — one project, one bug, one lesson at a time."</b></i></h3>
