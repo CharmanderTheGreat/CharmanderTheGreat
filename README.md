@@ -77,20 +77,32 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=CharmanderTheGreat&theme=tokyonight" width="70%" />
-</div>
+<table width="80%" align="center">
+<tr>
+<td colspan="2">
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%" />
+</td>
+<td width="50%">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="100%" />
+</td>
+<td width="50%">
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" />
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://ghstats.dev/api/langs?username=CharmanderTheGreat&theme=tokyonight&layout=bar" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=CharmanderTheGreat&days=60&width=700&theme=tokyonight" width="70%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="50%"/>
 </div>
 
 ---
@@ -134,7 +146,7 @@
 <a href="https://github.com/CharmanderTheGreat">
 <img src="./assets/lyrics-arduino-icon.png" width="90" height="90"/>
 </a>
-<br><sub><b>Lyrics in Arduino</b></sub><br><stb>(comint soon)></sub>
+<br><sub><b>Lyrics in Arduino</b></sub><br><sub><i>(coming soon)</i></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
@@ -193,4 +205,4 @@
   <img src="./assets/sunset.gif" width="100%"/>
 </div>
 
-<h3 align="center"><b>"Still figuring it out — one project, one bug, one lesson at a time."</bt></h3>
+<h3 align="center"><b>"Still figuring it out — one project, one bug, one lesson at a time."</b></h3>
