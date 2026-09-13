@@ -80,29 +80,29 @@
 <table width="80%" align="center">
 <tr>
 <td colspan="2">
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CharmanderTheGreat&theme=github_dark&chart_color=00F7FF&border_color=00F7FF" width="100%" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CharmanderTheGreat&theme=github_dark&border_color=00F7FF" width="100%" />
 </td>
 <td width="50%">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CharmanderTheGreat&theme=github_dark&border_color=00F7FF" width="100%" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CharmanderTheGreat&theme=github_dark&icon_color=00F7FF&border_color=00F7FF" width="100%" />
 </td>
 <td width="50%">
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CharmanderTheGreat&theme=github_dark&chart_color=00F7FF&border_color=00F7FF" width="100%" />
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=false&border=00F7FF&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="50%"/>
 </div>
 
 ---
