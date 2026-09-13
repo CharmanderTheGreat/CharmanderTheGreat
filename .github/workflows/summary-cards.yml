@@ -18,4 +18,4 @@ jobs:
           USERNAME: CharmanderTheGreat
           BRANCH_NAME: "main"
           UTC_OFFSET: 8
-          THEME: "tokyonight"
+          THEME: "github_dark"
