@@ -143,10 +143,10 @@
 <br><sub><b>365 Days of Coding</b></sub>
 </td>
 <td align="center" width="16.6%">
-<a href="https://github.com/CharmanderTheGreat">
+<a href="https://github.com/CharmanderTheGreat/arduino-karaoke-lcd">
 <img src="./assets/lyrics-arduino-icon.png" width="90" height="90"/>
 </a>
-<br><sub><b>Lyrics in Arduino</b></sub><br><sub><i>(coming soon)</i></sub>
+<br><sub><b>Lyrics in Arduino</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
