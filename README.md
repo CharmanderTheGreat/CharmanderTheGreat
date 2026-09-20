@@ -137,13 +137,13 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="16.6%">
-<a href="https://github.com/CharmanderTheGreat/Personal-portfolio-site--HTML-CSS-JS-">
+<a href="https://github.com/CharmanderTheGreat/365-days-of-coding.git">
 <img src="./assets/portfolio-icon.png" width="90" height="90"/>
 </a>
 <br><sub><b>365 Days of Coding</b></sub>
 </td>
 <td align="center" width="16.6%">
-<a href="https://github.com/CharmanderTheGreat/arduino-karaoke-lcd">
+<a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
 <img src="./assets/lyrics-arduino-icon.png" width="90" height="90"/>
 </a>
 <br><sub><b>Lyrics in Arduino</b></sub>
