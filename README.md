@@ -150,7 +150,7 @@
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
-<img src="./assets/rosacycle-icon.png" width="90" height="90"/>
+<img src="./assets/rosacycle-icon.svg" width="90" height="90"/>
 </a>
 <br><sub><b>RosaCycle</b></sub>
 </td>
