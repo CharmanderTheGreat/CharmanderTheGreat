@@ -141,39 +141,39 @@
 <tr>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat/365-days-of-coding.git">
-<img src="./assets/portfolio-icon.png" width="90" height="90"/>
+<img src="./assets/portfolio-icon.png" width="90" style="max-width: 100%; height: auto;" alt="365 Days of Coding"/>
 </a>
 <br><sub><b>365 Days of Coding</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
-<img src="./assets/lyrics-arduino-icon.png" width="90" height="90"/>
+<img src="./assets/lyrics-arduino-icon.png" width="90" style="max-width: 100%; height: auto;" alt="Lyrics in Arduino"/>
 </a>
 <br><sub><b>Lyrics in Arduino</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
-<img src="./assets/rosacycle-icon.svg" width="90" height="90"/>
+<img src="./assets/rosacycle-icon.svg" width="90" style="max-width: 100%; height: auto;" alt="RosaCycle"/>
 </a>
 <br><sub><b>RosaCycle</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
-<img src="./assets/grandvault-icon.png" width="90" height="90"/>
+<img src="./assets/grandvault-icon.png" width="90" style="max-width: 100%; height: auto; object-fit: contain;" alt="Grand Vault"/>
 </a>
 <br><sub><b>Grand Vault</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
-<img src="./assets/cctv-icon.png" width="90" height="90"/>
+<img src="./assets/cctv-icon.png" width="90" style="max-width: 100%; height: auto;" alt="CCTV Monitoring"/>
 </a>
 <br><sub><b>CCTV Monitoring</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/lukeedward-schofield/OOPSystem">
-<img src="./assets/oopsystem-icon.png" width="90" height="90"/>
+<img src="./assets/oopsystem-icon.png" width="90" style="max-width: 100%; height: auto;" alt="Employee Pass Slip Management System"/>
 </a>
-<br><sub><b>OOP System</b></sub>
+<br><sub><b>Employee Pass Slip Management System</b></sub>
 </td>
 </tr>
 </table>
