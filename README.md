@@ -161,7 +161,7 @@
 <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
 <img src="./assets/grandvault-icon.png" width="90" height="90"/>
 </a>
-<br><sub><b>GrandVault</b></sub>
+<br><sub><b>Grand Vault</b></sub>
 </td>
 <td align="center" width="16.6%">
 <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
