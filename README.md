@@ -114,8 +114,8 @@
 
 <div align="center">
 
-**🥈 1st Runner-Up — Excellence Award**
-**FROSTBYTE 2026: Youth Week Hackathon**
+**🥈 1st Runner-Up — Excellence Award**  
+**FROSTBYTE 2026: Youth Week Hackathon**  
 *"Break the Ice, Build the Future" — City of Santa Rosa, Laguna*
 
 <br>
@@ -137,46 +137,69 @@
 
 ### 🚀 Featured Projects
 
-<table align="center" width="100%">
+<div align="center">
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%;">
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
 <tr>
-<td align="center" width="16.6%">
+
+<td align="center" width="140" valign="top">
 <a href="https://github.com/CharmanderTheGreat/365-days-of-coding.git">
-<img src="./assets/portfolio-icon.png" width="90" style="max-width: 100%; height: auto;" alt="365 Days of Coding"/>
+<img src="./assets/portfolio-icon.png" width="80" alt="365 Days of Coding"/>
 </a>
-<br><sub><b>365 Days of Coding</b></sub>
+<br><br>
+<sub><b>365 Days<br>of Coding</b></sub>
 </td>
-<td align="center" width="16.6%">
+
+
+<td align="center" width="140" valign="top">
 <a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
-<img src="./assets/lyrics-arduino-icon.png" width="90" style="max-width: 100%; height: auto;" alt="Lyrics in Arduino"/>
+<img src="./assets/lyrics-arduino-icon.png" width="80" alt="Lyrics in Arduino"/>
 </a>
-<br><sub><b>Lyrics in Arduino</b></sub>
+<br><br>
+<sub><b>Lyrics in<br>Arduino</b></sub>
 </td>
-<td align="center" width="16.6%">
+
+
+<td align="center" width="140" valign="top">
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
-<img src="./assets/rosacycle-icon.svg" width="90" style="max-width: 100%; height: auto;" alt="RosaCycle"/>
+<img src="./assets/rosacycle-icon.svg" width="80" alt="RosaCycle"/>
 </a>
-<br><sub><b>RosaCycle</b></sub>
+<br><br>
+<sub><b>RosaCycle<br>&nbsp;</b></sub>
 </td>
-<td align="center" width="16.6%">
+
+
+<td align="center" width="140" valign="top">
 <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
-<img src="./assets/grandvault-icon.png" width="90" style="max-width: 100%; height: auto; object-fit: contain;" alt="Grand Vault"/>
+<img src="./assets/grandvault-icon.png" width="80" alt="Grand Vault"/>
 </a>
-<br><sub><b>Grand Vault</b></sub>
+<br><br>
+<sub><b>Grand Vault<br>&nbsp;</b></sub>
 </td>
-<td align="center" width="16.6%">
+
+
+<td align="center" width="140" valign="top">
 <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
-<img src="./assets/cctv-icon.png" width="90" style="max-width: 100%; height: auto;" alt="CCTV Monitoring"/>
+<img src="./assets/cctv-icon.png" width="80" alt="CCTV Monitoring"/>
 </a>
-<br><sub><b>CCTV Monitoring</b></sub>
+<br><br>
+<sub><b>CCTV<br>Monitoring</b></sub>
 </td>
-<td align="center" width="16.6%">
+
+
+<td align="center" width="140" valign="top">
 <a href="https://github.com/lukeedward-schofield/OOPSystem">
-<img src="./assets/oopsystem-icon.png" width="90" style="max-width: 100%; height: auto;" alt="Employee Pass Slip Management System"/>
+<img src="./assets/oopsystem-icon.png" width="80" alt="Employee Pass Slip Management System"/>
 </a>
-<br><sub><b>Employee Pass Slip Management System</b></sub>
+<br><br>
+<sub><b>Pass Slip<br>Management</b></sub>
 </td>
 </tr>
 </table>
+
+</div>
+</div>
 
 ---
 
