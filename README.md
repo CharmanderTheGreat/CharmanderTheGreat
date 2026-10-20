@@ -138,19 +138,17 @@
 ### 🚀 Featured Projects
 
 <div align="center">
-<div style="overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%;">
 
-<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
+<table align="center" border="1" cellpadding="10" cellspacing="0" width="840">
 <tr>
 
 <td align="center" width="140" valign="top">
-<a href="https://github.com/CharmanderTheGreat/365-days-of-coding.git">
+<a href="https://github.com/CharmanderTheGreat/365-days-of-coding">
 <img src="./assets/portfolio-icon.png" width="80" alt="365 Days of Coding"/>
 </a>
 <br><br>
 <sub><b>365 Days<br>of Coding</b></sub>
 </td>
-
 
 <td align="center" width="140" valign="top">
 <a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
@@ -160,7 +158,6 @@
 <sub><b>Lyrics in<br>Arduino</b></sub>
 </td>
 
-
 <td align="center" width="140" valign="top">
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
 <img src="./assets/rosacycle-icon.svg" width="80" alt="RosaCycle"/>
@@ -168,7 +165,6 @@
 <br><br>
 <sub><b>RosaCycle<br>&nbsp;</b></sub>
 </td>
-
 
 <td align="center" width="140" valign="top">
 <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
@@ -178,7 +174,6 @@
 <sub><b>Grand Vault<br>&nbsp;</b></sub>
 </td>
 
-
 <td align="center" width="140" valign="top">
 <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
 <img src="./assets/cctv-icon.png" width="80" alt="CCTV Monitoring"/>
@@ -187,18 +182,17 @@
 <sub><b>CCTV<br>Monitoring</b></sub>
 </td>
 
-
 <td align="center" width="140" valign="top">
-<a href="https://github.com/lukeedward-schofield/OOPSystem">
-<img src="./assets/oopsystem-icon.png" width="80" alt="Employee Pass Slip Management System"/>
+<a href="https://github.com/CharmanderTheGreat/pass-slip-management">
+<img src="./assets/pass-slip-icon.png" width="80" alt="Pass Slip Management"/>
 </a>
 <br><br>
 <sub><b>Pass Slip<br>Management</b></sub>
 </td>
+
 </tr>
 </table>
 
-</div>
 </div>
 
 ---
