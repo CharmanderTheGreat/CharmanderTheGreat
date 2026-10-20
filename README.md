@@ -139,59 +139,29 @@
 
 <div align="center">
 
-<table align="center" border="1" cellpadding="10" cellspacing="0" width="840">
-<tr>
-
-<td align="center" width="140" valign="top">
 <a href="https://github.com/CharmanderTheGreat/365-days-of-coding">
-<img src="./assets/portfolio-icon.png" width="80" alt="365 Days of Coding"/>
+  <img src="./assets/portfolio-icon.png" width="80" height="80" alt="365 Days"/>
 </a>
-<br><br>
-<sub><b>365 Days<br>of Coding</b></sub>
-</td>
-
-<td align="center" width="140" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
-<img src="./assets/lyrics-arduino-icon.png" width="80" alt="Lyrics in Arduino"/>
+  <img src="./assets/lyrics-arduino-icon.png" width="80" height="80" alt="Arduino Lyrics"/>
 </a>
-<br><br>
-<sub><b>Lyrics in<br>Arduino</b></sub>
-</td>
-
-<td align="center" width="140" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/lukeedward-schofield/RosaCycle">
-<img src="./assets/rosacycle-icon.svg" width="80" alt="RosaCycle"/>
+  <img src="./assets/rosacycle-icon.svg" width="80" height="80" alt="RosaCycle"/>
 </a>
-<br><br>
-<sub><b>RosaCycle<br>&nbsp;</b></sub>
-</td>
-
-<td align="center" width="140" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
-<img src="./assets/grandvault-icon.png" width="80" alt="Grand Vault"/>
+  <img src="./assets/grandvault-icon.png" width="80" height="80" alt="Grand Vault"/>
 </a>
-<br><br>
-<sub><b>Grand Vault<br>&nbsp;</b></sub>
-</td>
-
-<td align="center" width="140" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
-<img src="./assets/cctv-icon.png" width="80" alt="CCTV Monitoring"/>
+  <img src="./assets/cctv-icon.png" width="80" height="80" alt="CCTV"/>
 </a>
-<br><br>
-<sub><b>CCTV<br>Monitoring</b></sub>
-</td>
-
-<td align="center" width="140" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/CharmanderTheGreat/pass-slip-management">
-<img src="./assets/pass-slip-icon.png" width="80" alt="Pass Slip Management"/>
+  <img src="./assets/pass-slip-icon.png" width="80" height="80" alt="Pass Slip"/>
 </a>
-<br><br>
-<sub><b>Pass Slip<br>Management</b></sub>
-</td>
-
-</tr>
-</table>
 
 </div>
 
