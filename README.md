@@ -139,29 +139,54 @@
 
 <div align="center">
 
-<a href="https://github.com/CharmanderTheGreat/365-days-of-coding">
-  <img src="./assets/portfolio-icon.png" width="80" height="80" alt="365 Days"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
-  <img src="./assets/lyrics-arduino-icon.png" width="80" height="80" alt="Arduino Lyrics"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/lukeedward-schofield/RosaCycle">
-  <img src="./assets/rosacycle-icon.svg" width="80" height="80" alt="RosaCycle"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
-  <img src="./assets/grandvault-icon.png" width="80" height="80" alt="Grand Vault"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
-  <img src="./assets/cctv-icon.png" width="80" height="80" alt="CCTV"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/CharmanderTheGreat/pass-slip-management">
-  <img src="./assets/pass-slip-icon.png" width="80" height="80" alt="Pass Slip"/>
-</a>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/CharmanderTheGreat/365-days-of-coding">
+        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/portfolio-icon.png" width="70" height="70" />
+      </a>
+      <br>
+      <sub><b>365 Days of Coding</b></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
+        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/lyrics-arduino-icon.png" width="70" height="70" />
+      </a>
+      <br>
+      <sub><b>Lyrics in Arduino</b></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/lukeedward-schofield/RosaCycle">
+        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/rosacycle-icon.svg" width="70" height="70" />
+      </a>
+      <br>
+      <sub><b>RosaCycle</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
+        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/grandvault-icon.png" width="70" height="70" />
+      </a>
+      <br>
+      <sub><b>Grand Vault</b></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
+        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/cctv-icon.png" width="70" height="70" />
+      </a>
+      <br>
+      <sub><b>CCTV Monitoring</b></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/CharmanderTheGreat/pass-slip-management">
+        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/pass-slip-icon.png" width="70" height="70" />
+      </a>
+      <br>
+      <sub><b>Pass Slip Management</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
