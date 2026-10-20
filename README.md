@@ -180,7 +180,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/CharmanderTheGreat/pass-slip-management">
-        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/pass-slip-icon.jpg" width="70" height="70" />
+        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/oopsystem-icon.png" width="70" height="70" />
       </a>
       <br>
       <sub><b>Pass Slip Management</b></sub>
