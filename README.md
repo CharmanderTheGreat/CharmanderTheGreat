@@ -137,60 +137,66 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="https://github.com/CharmanderTheGreat/365-days-of-coding">
-        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/portfolio-icon.png" width="70" height="70" />
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://github.com/CharmanderTheGreat/365-days-of-coding.git">
+        <img src="./assets/portfolio-icon.png" width="80" height="80" alt="365 Days of Coding"/>
       </a>
-      <br>
-      <sub><b>365 Days of Coding</b></sub>
+      <br/><br/>
+      <b>365 Days of Coding</b>
+      <br/><br/>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" valign="top" width="33%">
+      <br/>
       <a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
-        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/lyrics-arduino-icon.png" width="70" height="70" />
+        <img src="./assets/lyrics-arduino-icon.png" width="80" height="80" alt="Lyrics in Arduino"/>
       </a>
-      <br>
-      <sub><b>Lyrics in Arduino</b></sub>
+      <br/><br/>
+      <b>Lyrics in Arduino</b>
+      <br/><br/>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" valign="top" width="33%">
+      <br/>
       <a href="https://github.com/lukeedward-schofield/RosaCycle">
-        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/rosacycle-icon.svg" width="70" height="70" />
+        <img src="./assets/rosacycle-icon.svg" width="80" height="80" alt="RosaCycle"/>
       </a>
-      <br>
-      <sub><b>RosaCycle</b></sub>
+      <br/><br/>
+      <b>RosaCycle</b>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top">
+    <td align="center" valign="top" width="33%">
+      <br/>
       <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
-        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/grandvault-icon.png" width="70" height="70" />
+        <img src="./assets/grandvault-icon.png" width="80" height="80" alt="Grand Vault"/>
       </a>
-      <br>
-      <sub><b>Grand Vault</b></sub>
+      <br/><br/>
+      <b>Grand Vault</b>
+      <br/><br/>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" valign="top" width="33%">
+      <br/>
       <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
-        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/cctv-icon.png" width="70" height="70" />
+        <img src="./assets/cctv-icon.png" width="80" height="80" alt="CCTV Monitoring"/>
       </a>
-      <br>
-      <sub><b>CCTV Monitoring</b></sub>
+      <br/><br/>
+      <b>CCTV Monitoring</b>
+      <br/><br/>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="https://github.com/CharmanderTheGreat/pass-slip-management">
-        <img src="https://raw.githubusercontent.com/CharmanderTheGreat/CharmanderTheGreat/main/assets/oopsystem-icon.png" width="70" height="70" />
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://github.com/lukeedward-schofield/OOPSystem">
+        <img src="./assets/oopsystem-icon.png" width="80" height="80" alt="Employee Pass Slip Management System"/>
       </a>
-      <br>
-      <sub><b>Pass Slip Management</b></sub>
+      <br/><br/>
+      <b>Pass Slip Management</b>
+      <br/><br/>
     </td>
   </tr>
 </table>
-
-</div>
-
----
 
 ### 🌐 Connect With Me
 
