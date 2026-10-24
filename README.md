@@ -196,6 +196,65 @@
       <br/><br/>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="https://github.com/CharmanderTheGreat/Hashe">
+        <img src="" width="80" height="80" alt="Hashe"/>
+      </a>
+      <br/><br/>
+      <b>Hashe</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="#">
+        <img src="" width="80" height="80" alt=""/>
+      </a>
+      <br/><br/>
+      <b>Project Name</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="#">
+        <img src="" width="80" height="80" alt=""/>
+      </a>
+      <br/><br/>
+      <b>Project Name</b>
+      <br/><br/>
+    </td>
+  </tr>
+  <!-- Bagong Row ng Templates -->
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="#">
+        <img src="" width="80" height="80" alt=""/>
+      </a>
+      <br/><br/>
+      <b>Project Name</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="#">
+        <img src="" width="80" height="80" alt=""/>
+      </a>
+      <br/><br/>
+      <b>Project Name</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <a href="#">
+        <img src="" width="80" height="80" alt=""/>
+      </a>
+      <br/><br/>
+      <b>Project Name</b>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
 
 ### 🌐 Connect With Me
