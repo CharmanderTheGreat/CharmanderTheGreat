@@ -137,43 +137,105 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <!-- Item 1 -->
-  <a href="https://github.com/CharmanderTheGreat/365-days-of-coding" style="text-decoration:none; display:inline-block; margin:10px 14px; text-align:center;">
-    <img src="./assets/portfolio-icon.png" width="70" height="70" alt="365 Days of Coding"/><br/>
-    <b>365 Days of Coding</b>
-  </a>
-  <!-- Item 2 -->
-  <a href="https://github.com/CharmanderTheGreat/arduino-lyrics" style="text-decoration:none; display:inline-block; margin:10px 14px; text-align:center;">
-    <img src="./assets/lyrics-arduino-icon.png" width="70" height="70" alt="Lyrics in Arduino"/><br/>
-    <b>Lyrics in Arduino</b>
-  </a>
-  <!-- Item 3 -->
-  <a href="https://github.com/lukeedward-schofield/RosaCycle" style="text-decoration:none; display:inline-block; margin:10px 14px; text-align:center;">
-    <img src="./assets/rosacycle-icon.svg" width="70" height="70" alt="RosaCycle"/><br/>
-    <b>RosaCycle</b>
-  </a>
-  <!-- Item 4 -->
-  <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function" style="text-decoration:none; display:inline-block; margin:10px 14px; text-align:center;">
-    <img src="./assets/grandvault-icon.png" width="70" height="70" alt="Grand Vault"/><br/>
-    <b>Grand Vault</b>
-  </a>
-  <!-- Item 5 -->
-  <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system" style="text-decoration:none; display:inline-block; margin:10px 14px; text-align:center;">
-    <img src="./assets/cctv-icon.png" width="70" height="70" alt="CCTV Monitoring"/><br/>
-    <b>CCTV Monitoring</b>
-  </a>
-  <!-- Item 6 -->
-  <a href="https://github.com/lukeedward-schofield/OOPSystem" style="text-decoration:none; display:inline-block; margin:10px 14px; text-align:center;">
-    <img src="./assets/oopsystem-icon.png" width="70" height="70" alt="Pass Slip Management"/><br/>
-    <b>Pass Slip Management</b>
-  </a>
-  <!-- Item 7 -->
-  <a href="https://github.com/CharmanderTheGreat/Hashe" style="text-decoration:none; display:inline-block; margin:10px 14px; text-align:center;">
-    <img src="./assets/hashe-icon.svg" width="70" height="70" alt="Hashe"/><br/>
-    <b>Hashe</b>
-  </a>
-</p>
+<table align="center" width="100%">
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="https://github.com/CharmanderTheGreat/365-days-of-coding">
+        <img src="./assets/portfolio-icon.png" width="65" height="65" alt="365 Days of Coding"/>
+      </a>
+      <br/><br/>
+      <b>365 Days of Coding</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
+        <img src="./assets/lyrics-arduino-icon.png" width="65" height="65" alt="Lyrics in Arduino"/>
+      </a>
+      <br/><br/>
+      <b>Lyrics in Arduino</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="https://github.com/lukeedward-schofield/RosaCycle">
+        <img src="./assets/rosacycle-icon.svg" width="65" height="65" alt="RosaCycle"/>
+      </a>
+      <br/><br/>
+      <b>RosaCycle</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="https://github.com/CharmanderTheGreat/password-vault-with-encryption-function">
+        <img src="./assets/grandvault-icon.png" width="65" height="65" alt="Grand Vault"/>
+      </a>
+      <br/><br/>
+      <b>Grand Vault</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="https://github.com/CharmanderTheGreat/cctv-monitoring-system">
+        <img src="./assets/cctv-icon.png" width="65" height="65" alt="CCTV Monitoring"/>
+      </a>
+      <br/><br/>
+      <b>CCTV Monitoring</b>
+      <br/><br/>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="https://github.com/lukeedward-schofield/OOPSystem">
+        <img src="./assets/oopsystem-icon.png" width="65" height="65" alt="Pass Slip Management"/>
+      </a>
+      <br/><br/>
+      <b>Pass Slip Management</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="https://github.com/CharmanderTheGreat/Hashe">
+        <img src="./assets/hashe-icon.svg" width="65" height="65" alt="Hashe"/>
+      </a>
+      <br/><br/>
+      <b>Hashe</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="#">
+        <img src="" width="65" height="65" alt=""/>
+      </a>
+      <br/><br/>
+      <b>Project Name</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="#">
+        <img src="" width="65" height="65" alt=""/>
+      </a>
+      <br/><br/>
+      <b>Project Name</b>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <br/>
+      <a href="#">
+        <img src="" width="65" height="65" alt=""/>
+      </a>
+      <br/><br/>
+      <b>Project Name</b>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Connect With Me
 
