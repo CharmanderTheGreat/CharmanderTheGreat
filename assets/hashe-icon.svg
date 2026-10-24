@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background: Midnight Indigo to Deep Emerald Teal -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="55%" stop-color="#092026" />
+      <stop offset="100%" stop-color="#04382d" />
+    </linearGradient>
+
+    <!-- Notepad Corner Fold -->
+    <linearGradient id="cornerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#334155" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+
+    <!-- H Left Stem: Cyber Emerald -->
+    <linearGradient id="hLeft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+
+    <!-- H Right Stem: Vivid Violet -->
+    <linearGradient id="hRight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+
+    <!-- Solid Center Crossbar (Green-White-Violet Transition) -->
+    <linearGradient id="hBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="50%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="4" />
+
+  <!-- Notepad Document Canvas -->
+  <g id="notepad">
+    <path d="M 136 84 
+             L 326 84 
+             L 376 134 
+             L 376 424 
+             C 376 438 365 448 351 448 
+             L 161 448 
+             C 147 448 136 438 136 424 
+             Z" fill="#0a0f1d" stroke="#334155" stroke-width="4" />
+
+    <!-- Folded Corner Sheet -->
+    <path d="M 326 84 L 326 134 L 376 134 Z" fill="url(#cornerGrad)" stroke="#334155" stroke-width="3" />
+
+    <!-- Terminal Status Lights -->
+    <circle cx="170" cy="116" r="6" fill="#ef4444" />
+    <circle cx="192" cy="116" r="6" fill="#f59e0b" />
+    <circle cx="214" cy="116" r="6" fill="#10b981" />
+  </g>
+
+  <!-- Solid Architectural "H" Monogram (Walang Dots, Walang Butas) -->
+  <g id="pure-h" transform="translate(0, 8)">
+    <!-- Kaliwang Haligi: Matalas na 45° cut sa taas, flat base sa baba -->
+    <path d="M 178 206 
+             L 216 168 
+             L 216 380 
+             L 178 380 
+             Z" fill="url(#hLeft)" />
+
+    <!-- Kanang Haligi: Flat sa taas, matalas na 45° cut sa baba -->
+    <path d="M 296 168 
+             L 334 168 
+             L 334 342 
+             L 296 380 
+             Z" fill="url(#hRight)" />
+
+    <!-- Buong Gitnang Tulay: Solid interlocking bar na direktang nakalapat sa dalawang haligi -->
+    <polygon points="216,252 296,252 296,296 216,296" fill="url(#hBar)" />
+  </g>
+</svg>
