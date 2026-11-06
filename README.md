@@ -152,7 +152,7 @@
     <td align="center" valign="top" width="20%">
       <br/>
       <a href="https://github.com/CharmanderTheGreat/arduino-lyrics">
-        <img src="./assets/lyrics-arduino-icon.png" width="65" height="65" alt="Lyrics in Arduino"/>
+        <img src="./assets/lyrics-arduino-icon.jpg" width="65" height="65" alt="Lyrics in Arduino"/>
       </a>
       <br/><br/>
       <b>Lyrics in Arduino</b>
@@ -262,7 +262,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/sunset.gif" width="100%"/>
+  <img src="./assets/square-github.gif" width="100%"/>
 </div>
 
 <h3 align="center"><b>"Still figuring it out — one project, one bug, one lesson at a time."</b></h3>
