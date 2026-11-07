@@ -161,7 +161,7 @@
     <td align="center" valign="top" width="20%">
       <br/>
       <a href="https://github.com/lukeedward-schofield/RosaCycle">
-        <img src="./assets/rosacycle-icon.svg" width="65" height="65" alt="RosaCycle"/>
+        <img src="./assets/rosacycle-icon.png" width="65" height="65" alt="RosaCycle"/>
       </a>
       <br/><br/>
       <b>RosaCycle</b>
@@ -209,11 +209,11 @@
     </td>
     <td align="center" valign="top" width="20%">
       <br/>
-      <a href="#">
-        <img src="" width="65" height="65" alt=""/>
-      </a>
+      <img src="./assets/cleofas-icon.png" width="65" height="65" alt=""/>
       <br/><br/>
-      <b>Project Name</b>
+      <b>Cleofas</b>
+      <br/>
+  <small><i>(Private Repository)</i></small>
       <br/><br/>
     </td>
     <td align="center" valign="top" width="20%">
