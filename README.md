@@ -191,7 +191,7 @@
   <tr>
     <td align="center" valign="top" width="20%">
       <br/>
-      <a href="https://github.com/lukeedward-schofield/OOPSystem">
+      <a href="https://github.com/CharmanderTheGreat/PassSlipSystem-OOP.git">
         <img src="./assets/oopsystem-icon.png" width="65" height="65" alt="Pass Slip Management"/>
       </a>
       <br/><br/>
