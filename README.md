@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Albert+Lawrence+%F0%9F%91%8B;a.k.a.+CharmanderTheGreat;IT+Student+%7C+Aspiring+Tech+Professional;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Albert+Lawrence;a.k.a.+CharmanderTheGreat;IT+Student+%7C+Aspiring+Tech+Professional;Always+learning.+Always+building." alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
   <img src="./assets/car.gif" width="100%"/>
 </div>
 
-<h3 align="center">💡 Learning, building, and figuring things out one project at a time.</h3>
+<h3 align="center">Learning, building, and figuring things out one project at a time.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CharmanderTheGreat&label=Profile%20Views&color=00f7ff&style=flat" alt="profile views" />
@@ -17,7 +17,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 <table align="center" width="100%">
 <tr>
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### ⚡ Tech Stack
+### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -78,7 +78,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <table width="80%" align="center">
 <tr>
@@ -110,11 +110,11 @@
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 <div align="center">
 
-**🥈 1st Runner-Up — Excellence Award**  
+**1st Runner-Up — Excellence Award**  
 **FROSTBYTE 2026: Youth Week Hackathon**  
 *"Break the Ice, Build the Future" — City of Santa Rosa, Laguna*
 
@@ -135,10 +135,54 @@
 
 ---
 
-### 🚀 Featured Projects
+### Certificates
+
+<div align="center">
 
 <table align="center" width="100%">
-  <!-- Row 1 -->
+<tr>
+<td width="33%" valign="top" align="center">
+<img src="./assets/nasa-space-apps-certificate.png" width="100%" alt="NASA Space Apps Challenge 2026 - Galactic Problem Solver"/>
+<br/><b>Galactic Problem Solver</b>
+<br/><sub>NASA Space Apps Challenge 2026</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="" width="100%" alt=""/>
+<br/><b></b>
+<br/><sub></sub>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="" width="100%" alt=""/>
+<br/><b></b>
+<br/><sub></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<img src="" width="100%" alt=""/>
+<br/><b></b>
+<br/><sub></sub>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="" width="100%" alt=""/>
+<br/><b></b>
+<br/><sub></sub>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="" width="100%" alt=""/>
+<br/><b></b>
+<br/><sub></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### Featured Projects
+
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="20%">
       <br/>
@@ -187,7 +231,6 @@
     </td>
   </tr>
 
-  <!-- Row 2 -->
   <tr>
     <td align="center" valign="top" width="20%">
       <br/>
@@ -237,7 +280,7 @@
   </tr>
 </table>
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <div align="center">
 
@@ -253,7 +296,7 @@
 
 <div align="center">
 
-### 👾 Pac-Man Contribution Graph
+### Pac-Man Contribution Graph
 
 ![pacman contribution graph](https://raw.githubusercontent.com/CharmanderTheGreat/github-pacman/output/pacman-contribution-graph.svg)
 
