@@ -147,9 +147,9 @@
 <br/><sub>NASA Space Apps Challenge 2026</sub>
 </td>
 <td width="33%" valign="top" align="center">
-<img src="" width="100%" alt=""/>
-<br/><b></b>
-<br/><sub></sub>
+<img src="./assets/nasa-space-apps-certificate.png" width="100%" alt="NASA Space Apps Challenge 2026 - Galactic Problem Solver"/>
+<br/><b>Galactic Problem Solver</b>
+<br/><sub>NASA Space Apps Challenge 2026</sub>
 </td>
 <td width="33%" valign="top" align="center">
 <img src="" width="100%" alt=""/>
