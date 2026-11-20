@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Albert+Lawrence;a.k.a.+CharmanderTheGreat;IT+Student+%7C+Aspiring+Tech+Professional;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78166&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Albert+Lawrence;a.k.a.+CharmanderTheGreat;IT+Student+%7C+Aspiring+Tech+Professional;Always+learning.+Always+building." alt="Typing SVG" />
 
 </div>
 
@@ -11,8 +11,8 @@
 <h3 align="center">Learning, building, and figuring things out one project at a time.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CharmanderTheGreat&label=Profile%20Views&color=00f7ff&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/CharmanderTheGreat?label=Followers&style=flat&color=00f7ff" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=CharmanderTheGreat&label=Profile%20Views&color=F78166&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/CharmanderTheGreat?label=Followers&style=flat&color=F78166" alt="followers" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00F7FF)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=F78166)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Oracle VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
@@ -80,32 +80,13 @@
 
 ### GitHub Stats
 
-<table width="80%" align="center">
-<tr>
-<td colspan="2">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CharmanderTheGreat&theme=github_dark&chart_color=00F7FF&border_color=00F7FF" width="100%" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CharmanderTheGreat&theme=github_dark&border_color=00F7FF" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CharmanderTheGreat&theme=github_dark&border_color=00F7FF" width="100%" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CharmanderTheGreat&theme=github_dark&icon_color=00F7FF&border_color=00F7FF" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CharmanderTheGreat&theme=github_dark&chart_color=00F7FF&border_color=00F7FF" width="100%" />
-</td>
-</tr>
-</table>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=false&border=00F7FF&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&v=2" width="50%"/>
+  <img src="./assets/stats/overview.svg" width="88%" alt="GitHub Overview" />
+  <br/>
+  <img src="./assets/stats/languages.svg" width="43.5%" alt="Top Languages" />
+  <img src="./assets/stats/stats.svg" width="43.5%" alt="GitHub Stats" />
+  <br/>
+  <img src="./assets/stats/streak.svg" width="62%" alt="GitHub Streak" />
 </div>
 
 ---
