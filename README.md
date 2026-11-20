@@ -105,7 +105,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=false&border=00F7FF&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharmanderTheGreat&theme=tokyonight&hide_border=false&border=00F7FF&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&v=2" width="50%"/>
 </div>
 
 ---
