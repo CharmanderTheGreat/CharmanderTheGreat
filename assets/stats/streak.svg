@@ -10,7 +10,7 @@
   <rect x="0.5" y="0.5" width="559" height="164" rx="10" fill="#0D1117" stroke="#30363D"/>
 
   <!-- Left: Total Contributions -->
-  <text x="95" y="76" text-anchor="middle" class="num">706</text>
+  <text x="95" y="76" text-anchor="middle" class="num">719</text>
   <text x="95" y="102" text-anchor="middle" class="lbl">Total Contributions</text>
   <text x="95" y="120" text-anchor="middle" class="date">Last 12 Months</text>
 
@@ -20,14 +20,14 @@
   <circle cx="280" cy="64" r="30" stroke="#F78166" stroke-width="3.2" fill="none"/>
   <circle cx="280" cy="34" r="7" fill="#0D1117"/>
   <path d="M280 27 C282.5 30 284 32 284 34.5 C284 36.8 282.2 38.5 280 38.5 C277.8 38.5 276 36.8 276 34.5 C276 33 276.8 31.5 278 30.2 C278 31.8 279 32.5 280 32.5 C279.5 30.8 279.5 29 280 27 Z" fill="#F78166"/>
-  <text x="280" y="72" text-anchor="middle" class="num">0</text>
+  <text x="280" y="72" text-anchor="middle" class="num">82</text>
   <text x="280" y="114" text-anchor="middle" class="lbl-accent">Current Streak</text>
-  <text x="280" y="132" text-anchor="middle" class="date">No active streak</text>
+  <text x="280" y="132" text-anchor="middle" class="date">Sep 3 - Nov 23</text>
 
   <line x1="370" y1="30" x2="370" y2="135" stroke="#30363D" stroke-width="1"/>
 
   <!-- Right: Longest Streak -->
-  <text x="465" y="76" text-anchor="middle" class="num">80</text>
+  <text x="465" y="76" text-anchor="middle" class="num">82</text>
   <text x="465" y="102" text-anchor="middle" class="lbl">Longest Streak</text>
-  <text x="465" y="120" text-anchor="middle" class="date">Sep 3 - Nov 21</text>
+  <text x="465" y="120" text-anchor="middle" class="date">Sep 3 - Nov 23</text>
 </svg>
