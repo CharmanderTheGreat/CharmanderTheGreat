@@ -16,7 +16,7 @@
 
   <!-- Row 1 -->
   <circle cx="35" cy="72" r="4" fill="#F78166"/>
-  <text x="50" y="76" class="stat">719 Total Contributions</text>
+  <text x="50" y="76" class="stat">726 Total Contributions</text>
 
   <!-- Row 2 -->
   <rect x="31" y="96" width="8" height="8" rx="1.5" fill="#F78166"/>
@@ -27,6 +27,6 @@
   <text x="50" y="132" class="stat">Santa Rosa, Laguna, Philippines</text>
 
   <!-- Area Chart -->
-  <path d="M 420.0,145.0 L 450.9,145.0 L 481.8,145.0 L 512.7,142.3 L 543.6,130.7 L 574.5,135.0 L 605.5,137.7 L 636.4,138.0 L 667.3,60.0 L 698.2,121.4 L 729.1,124.4 L 760.0,142.1 L 760.0,145 L 420.0,145 Z" fill="url(#areaGrad)"/>
-  <path d="M 420.0,145.0 L 450.9,145.0 L 481.8,145.0 L 512.7,142.3 L 543.6,130.7 L 574.5,135.0 L 605.5,137.7 L 636.4,138.0 L 667.3,60.0 L 698.2,121.4 L 729.1,124.4 L 760.0,142.1" stroke="#F78166" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M 420.0,145.0 L 450.9,145.0 L 481.8,145.0 L 512.7,142.3 L 543.6,130.7 L 574.5,135.0 L 605.5,137.7 L 636.4,138.0 L 667.3,60.0 L 698.2,121.4 L 729.1,124.4 L 760.0,140.4 L 760.0,145 L 420.0,145 Z" fill="url(#areaGrad)"/>
+  <path d="M 420.0,145.0 L 450.9,145.0 L 481.8,145.0 L 512.7,142.3 L 543.6,130.7 L 574.5,135.0 L 605.5,137.7 L 636.4,138.0 L 667.3,60.0 L 698.2,121.4 L 729.1,124.4 L 760.0,140.4" stroke="#F78166" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 </svg>
