@@ -10,7 +10,7 @@
   <rect x="0.5" y="0.5" width="559" height="164" rx="10" fill="#0D1117" stroke="#30363D"/>
 
   <!-- Left: Total Contributions -->
-  <text x="95" y="76" text-anchor="middle" class="num">730</text>
+  <text x="95" y="76" text-anchor="middle" class="num">731</text>
   <text x="95" y="102" text-anchor="middle" class="lbl">Total Contributions</text>
   <text x="95" y="120" text-anchor="middle" class="date">Last 12 Months</text>
 
